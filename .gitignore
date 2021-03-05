@@ -1,3 +1,6 @@
-Terraform/.terraform
-Terraform/.terraform.*
-Terraform/terraform.*
+terraform/.terraform
+terraform/.terraform.*
+terraform/terraform.*
+notes.md
+test.http
+extracted-arm/*
